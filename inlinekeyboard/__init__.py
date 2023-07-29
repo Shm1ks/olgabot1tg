@@ -1,0 +1,1 @@
+from .inline_menu import start, start2, money, posmoney, gooda, vaprosorzapis
